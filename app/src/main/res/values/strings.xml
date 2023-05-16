@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reserve">Table Reservation</string>
+    <string name="nameheader">Name:</string>
+    <string name="PNheader">Phone Number:</string>
+    <string name="Gsheader">Group Size:</string>
+    <string name="Date">Date:</string>
+    <string name="Time">Time:</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="reset">Reset</string>
+    <string name="Submit">Submit</string>
+</resources>
